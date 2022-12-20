@@ -87,7 +87,7 @@ It uses the following libraries:
 ## The Team
 
 ### Alba Gutierrez Pedemonte
-Alba has a background in Physics, worked as a consultant and is a fantastic data scientist!</br>
+Alba has a background in Physics, worked as a consultant and is an entrepreneur</br>
 <a href="https://www.linkedin.com/in/albagutierrezpedemonte/">LinkedIn</a><br>
-<a href="mailto: albaguti@gmail.com">E-mail</a>
+<a href="mailto: albaguti@gmail.com">E-mail</a><br>
 <a href ="https://github.com/albaguti">
